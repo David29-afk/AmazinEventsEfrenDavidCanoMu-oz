@@ -94,4 +94,7 @@ main{
     padding: 50px 0 100px 0;
 }
 
-
+.targetImg{
+    object-fit: cover;
+    height: 200px;
+}
